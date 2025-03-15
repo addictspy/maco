@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Specification-Title: Configuration as Code Plugin
+Specification-Version: 0.0
+Implementation-Title: Configuration as Code Plugin
+Implementation-Version: 1932.v75cb_b_f1b_698d
+Group-Id: io.jenkins
+Artifact-Id: configuration-as-code
+Short-Name: configuration-as-code
+Long-Name: Configuration as Code Plugin
+Url: https://github.com/jenkinsci/configuration-as-code-plugin
+Compatible-Since-Version: 1.28
+Plugin-Version: 1932.v75cb_b_f1b_698d
+Hudson-Version: 2.479.1
+Jenkins-Version: 2.479.1
+Plugin-Dependencies: caffeine-api:3.1.8-133.v17b_1ff2e0599,commons-text-
+ api:1.13.0-153.v91dcd89e2a_22,json-api:20250107-125.v28b_a_ffa_eb_f01,p
+ rism-api:1.29.0-18,snakeyaml-api:2.3-123.v13484c65210a_
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ChangelogUrl: https://github.com/jenkinsci/configuration-as-code-
+ plugin/releases
+Plugin-LogoUrl: https://raw.githubusercontent.com/jenkinsci/configuratio
+ n-as-code-plugin/master/plugin/src/main/resources/images/symbols/logo.s
+ vg
+Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/configuration
+ -as-code-plugin.git
+Plugin-ScmTag: 75cbbf1b698da2f29e23f174f015ff0a69831889
+Plugin-ScmUrl: https://github.com/jenkinsci/configuration-as-code-plugin
+Implementation-Build: 75cbbf1b698da2f29e23f174f015ff0a69831889
+
